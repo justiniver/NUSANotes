@@ -8,4 +8,20 @@
   - **Convertible**: Can convert to equity
 - Bonds are mostly sold by banks (e.g., the government)
 - **Credit Rating**: AAA to D scale (default risk assessment)
-- check
+
+### Foreign Exchange Markets
+- **Currency Pairs**: Base/Quote structure (e.g., EUR/USD = 1.1500)
+- Hierarchical Access Model
+  - Interbank Market
+  - Institutional Level
+  - Retail Level
+- Risk Categories
+  - **Transaction**: Cash flow volatility
+  - **Translation**: Balance sheet impact
+  - **Economic**: Competitive position changes
+
+### Commodities Markets
+- Physical Asset Markets Categories
+  - Energy
+  - Metals
+  - Agriculture
