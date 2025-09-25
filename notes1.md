@@ -1,0 +1,11 @@
+### Fixed Income Markets
+- High yield (non-investment grade) bonds are riskier
+- Municipal bonds can be taxable or non-taxable
+- Bonds can be quoted and traded on spread, not just in dollar price
+- Types of bonds
+  - **Callable**: Issuer can be redeemed early
+  - **Puttable**: Investor can sell back early
+  - **Convertible**: Can convert to equity
+- Bonds are mostly sold by banks (e.g., the government)
+- **Credit Rating**: AAA to D scale (default risk assessment)
+- 
