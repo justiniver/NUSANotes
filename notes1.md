@@ -8,4 +8,4 @@
   - **Convertible**: Can convert to equity
 - Bonds are mostly sold by banks (e.g., the government)
 - **Credit Rating**: AAA to D scale (default risk assessment)
-- 
+- check
